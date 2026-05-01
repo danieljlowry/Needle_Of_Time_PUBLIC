@@ -24,3 +24,32 @@ Space: Jump <br>
 E*: Time travel to the past (press again to go back to present day) <br>
 
 *Time jumps are limited by your battery level (top left), so use it wisely!
+
+## Roadmap
+
+<ins>May 2026 (0.1.1):<ins>
+
+- Level 1 Present 
+- Starting Screen
+- Bug Fixes
+
+<ins>June 2026 (0.1.2):<ins>
+
+- Level 1 Past
+- Player Sprite Overhaul
+- Player Animations
+
+<ins>July 2026 (0.1.3):<ins>
+
+- Level 1 Future
+- Enemy System
+- Bug Fixes
+
+<ins>August 2026 (0.1.4):<ins>
+
+- Level 1 Sprite Overhaul
+- Inventory System
+
+<ins>September 2026 (???):<ins>
+
+- ???
