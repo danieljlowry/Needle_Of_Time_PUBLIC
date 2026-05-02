@@ -16,6 +16,12 @@ And which truths were lies all along?
 
 Uncover the secrets of the time stream, its inhabitants, and much more! Happy travels!
 
+## How To Play
+
+1. Download the primary executable (.exe) file named "3Threads_One_Needle.exe"
+2. Run the .exe file and the game will begin!
+
+
 ## Controls
 
 A: Move left <br>
