@@ -33,29 +33,55 @@ E*: Time travel to the past (press again to go back to present day) <br>
 
 ## Roadmap
 
-<ins>May 2026 (0.1.1):<ins>
+<ins>May 2026 (v.0.1.1):<ins>
 
-- Level 1 Present 
+- Level 1 Present
+   - "Present" version of the 1st level, currently only crude version exists
 - Starting Screen
+   - Start menu screen showcasing game title, with start/play button, credits section
 - Bug Fixes
+   - See "Bugs" tag in Issues section
 
-<ins>June 2026 (0.1.2):<ins>
+<ins>June 2026 (v.0.1.2):<ins>
 
 - Level 1 Past
+  - "Past" version of the 1st level, currently only crude version exists
 - Player Sprite Overhaul
+  - Existing sprite only intended for game jam, not final iteration
 - Player Animations
+  - Currently, player sprite does not change regardless of the action/environment. Animations to be added for:
+  - Jumping Up
+  - Falling Down
+  - Move Left
+  - Move Right
+  - Battery-related Death
+  - Killzone-related Death
+  - Hurt/Damage Taken, for future enemy system
 
-<ins>July 2026 (0.1.3):<ins>
+<ins>July 2026 (v.0.1.3):<ins>
 
 - Level 1 Future
+  - "Future" version of the 1st level, currently does not exist
 - Enemy System
+  - Basic functionality for enmy system, movement, player detection, pathing, etc
+  - Not final iteration
+  - Will not be used across entire game, will change as the player progress through the levels
 - Bug Fixes
+  - See "Bugs" tag in Issues section
 
-<ins>August 2026 (0.1.4):<ins>
+<ins>August 2026 (v.0.1.4):<ins>
 
 - Level 1 Sprite Overhaul
+  - Redesign environment sprites
+  - Similar to the player sprite, the existing ones were only intended for the game jam
+  - Platforms, ground, etc
+  - Applies to the past, present, and future versions of level 1
 - Inventory System
+  - Collecting items
+  - Using items
+  - Viewing inventory
+  - Will utilized extensively throughout the rest of the game
 
-<ins>September 2026 (???):<ins>
+<ins>September 2026 (v.0.1.5):<ins>
 
-- ???
+- TBD
