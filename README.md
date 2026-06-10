@@ -33,8 +33,12 @@ E*: Time travel to the past (press again to go back to present day) <br>
 
 ## Roadmap
 
-<ins>May 2026 (v.0.1.1):<ins>
+<ins>June 2026 (v.0.1.1):<ins>
 
+- Genre Research
+   - Have little experience with playing 2D platformers
+   - Want to research into what makes the greats of this genre, great
+   - Will be a continuous process, but starts here
 - Level 1 Present
    - "Present" version of the 1st level, currently only crude version exists
 - Starting Screen
@@ -42,7 +46,7 @@ E*: Time travel to the past (press again to go back to present day) <br>
 - Bug Fixes
    - See "Bugs" tag in Issues section
 
-<ins>June 2026 (v.0.1.2):<ins>
+<ins>July 2026 (v.0.1.2):<ins>
 
 - Level 1 Past
   - "Past" version of the 1st level, currently only crude version exists
@@ -58,7 +62,7 @@ E*: Time travel to the past (press again to go back to present day) <br>
   - Killzone-related Death
   - Hurt/Damage Taken, for future enemy system
 
-<ins>July 2026 (v.0.1.3):<ins>
+<ins>August 2026 (v.0.1.3):<ins>
 
 - Level 1 Future
   - "Future" version of the 1st level, currently does not exist
@@ -69,7 +73,7 @@ E*: Time travel to the past (press again to go back to present day) <br>
 - Bug Fixes
   - See "Bugs" tag in Issues section
 
-<ins>August 2026 (v.0.1.4):<ins>
+<ins>September 2026 (v.0.1.4):<ins>
 
 - Level 1 Sprite Overhaul
   - Redesign environment sprites
@@ -82,6 +86,6 @@ E*: Time travel to the past (press again to go back to present day) <br>
   - Viewing inventory
   - Will utilized extensively throughout the rest of the game
 
-<ins>September 2026 (v.0.1.5):<ins>
+<ins>October 2026 (v.0.1.5):<ins>
 
 - TBD
