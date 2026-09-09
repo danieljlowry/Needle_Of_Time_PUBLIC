@@ -24,29 +24,29 @@ Uncover the secrets of the time stream, its inhabitants, and much more! Happy tr
 
 ## Controls
 
-A: Move left <br>
-D: Move right <br>
-Space: Jump <br>
-E*: Time travel to the past (press again to go back to present day) <br>
+A = Move left <br>
+D = Move right <br>
+Spacebar =  Jump <br>
+E* = Time travel to the past (press again to go back to present day) <br>
 
 *Time jumps are limited by your battery level (top left), so use it wisely!
 
 ## Roadmap
 
-<ins>June 2026 (v.0.1.1):<ins>
+<ins>September 2026 (v.0.1.1):<ins>
 
 - Genre Research
-   - Have little experience with playing 2D platformers
-   - Want to research into what makes the greats of this genre, great
-   - Will be a continuous process, but starts here
+   - Currently, have little experience playing 2D platformer games
+   - General research into 2D platforming video game genre
+   - Continuous process
 - Level 1 Present
-   - "Present" version of the 1st level, currently only crude version exists
+   - "Present" version of the 1st level
 - Starting Screen
    - Start menu screen showcasing game title, with start/play button, credits section
 - Bug Fixes
    - See "Bugs" tag in Issues section
 
-<ins>July 2026 (v.0.1.2):<ins>
+<ins>October 2026 (v.0.1.2):<ins>
 
 - Level 1 Past
   - "Past" version of the 1st level, currently only crude version exists
@@ -62,22 +62,22 @@ E*: Time travel to the past (press again to go back to present day) <br>
   - Killzone-related Death
   - Hurt/Damage Taken, for future enemy system
 
-<ins>August 2026 (v.0.1.3):<ins>
+<ins>November 2026 (v.0.1.3):<ins>
 
 - Level 1 Future
   - "Future" version of the 1st level, currently does not exist
 - Enemy System
-  - Basic functionality for enmy system, movement, player detection, pathing, etc
+  - Basic functionality for enemy system, movement, player detection, AI pathing, etc
   - Not final iteration
   - Will not be used across entire game, will change as the player progress through the levels
 - Bug Fixes
   - See "Bugs" tag in Issues section
 
-<ins>September 2026 (v.0.1.4):<ins>
+<ins>December 2026 (v.0.1.4):<ins>
 
-- Level 1 Sprite Overhaul
+- Level 1 Environment Overhaul
   - Redesign environment sprites
-  - Similar to the player sprite, the existing ones were only intended for the game jam
+  - Similar to the player sprite update, the existing environment sprites were only intended for the game jam
   - Platforms, ground, etc
   - Applies to the past, present, and future versions of level 1
 - Inventory System
@@ -85,7 +85,3 @@ E*: Time travel to the past (press again to go back to present day) <br>
   - Using items
   - Viewing inventory
   - Will utilized extensively throughout the rest of the game
-
-<ins>October 2026 (v.0.1.5):<ins>
-
-- TBD
