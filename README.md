@@ -86,6 +86,6 @@ Included below is a rough roadmap of development regarding NOT. Please note that
 - Bug Fixes
   - See "Bugs" tag in Issues section
 
-  <ins>Quarter 2 - 2027:<ins>
+<ins>Quarter 2 - 2027:<ins>
 
-  ???
+???
