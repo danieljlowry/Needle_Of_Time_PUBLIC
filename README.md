@@ -35,25 +35,29 @@ E* = Time travel to the past (press again to go back to present day) <br>
 
 Included below is a rough roadmap of development regarding NOT. Please note that the dates and time ranges included are not set-in-stone and are subject to change depending on behind-the-scenes development progress.
 
+✅ = Indicates complete items, those ready to be shipped in the next update <br>
+🛠️ = Work-In-Progress items, those currently being worked on <br>
+❌ = Indicates incomplete items, reserved for items not currently being worked on
+
 <ins>Quarter 4 - 2026: <ins>
 
-- Genre Research
+- Genre Research 🛠️
    - Currently, have little experience playing 2D platformer games
    - General research into 2D platforming video game genre
    - Ongoing process
-- Add Coyote Timer
+- Add Coyote Timer 🛠️
    - Currently, existing levels are significantly more difficult
    - Since the player must near perfectly move and jump before falling off the platform
-- Level 1 Past
+- Level 1 Past 🛠️
   - "Past" version of the 1st level, currently only crude version exists   
-- Level 1 Present
+- Level 1 Present 🛠️
    - "Present" version of the 1st level
-- Starting Screen
+- Starting Screen ❌
    - Start menu screen showcasing game title, with start/play button, credits section
    - Not final iteration
-- Player Sprite Overhaul
+- Player Sprite Overhaul ❌
   - Existing sprite only intended for game jam, not final iteration
-- Player Animations
+- Player Animations ❌
   - Currently, player sprite does not change regardless of the action/environment. Animations to be added for:
   - Jumping Up
   - Falling Down
@@ -62,28 +66,28 @@ Included below is a rough roadmap of development regarding NOT. Please note that
   - Battery-related Death
   - Killzone-related Death
   - Hurt/Damage Taken, for future enemy system
-- Bug Fixes
+- Bug Fixes 🛠️
    - See "Bugs" tag in Issues section  
    
 <ins>Quarter 1 - 2027:<ins>
 
-- Level 1 Future
+- Level 1 Future ❌
   - "Future" version of the 1st level, currently does not exist
-- Level 1 Environment Overhaul
+- Level 1 Environment Overhaul ❌
   - Redesign environment sprites
   - Similar to the player sprite update, the existing environment sprites were only intended for the game jam
   - Platforms, ground, etc
   - Applies to the past, present, and future versions of level 1
-- Enemy System
+- Enemy System ❌
   - Basic functionality for enemy system, movement, player detection, AI pathing, etc
   - Not final iteration
   - Will not be used across the entire game, will change as the player progress through the levels
-- Inventory System
-  - Collecting items
+- Inventory System ❌
+  - Collecting items 
   - Using items
   - Viewing inventory
   - Will utilized extensively throughout the rest of the game
-- Bug Fixes
+- Bug Fixes ❌
   - See "Bugs" tag in Issues section
 
 <ins>Quarter 2 - 2027:<ins>
