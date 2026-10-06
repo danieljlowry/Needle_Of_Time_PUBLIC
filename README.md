@@ -41,6 +41,9 @@ Included below is a rough roadmap of development regarding NOT. Please note that
    - Currently, have little experience playing 2D platformer games
    - General research into 2D platforming video game genre
    - Ongoing process
+- Add Coyote Timer
+   - Currently, existing levels are significantly more difficult
+   - Since the player must near perfectly move and jump before falling off the platform
 - Level 1 Past
   - "Past" version of the 1st level, currently only crude version exists   
 - Level 1 Present
